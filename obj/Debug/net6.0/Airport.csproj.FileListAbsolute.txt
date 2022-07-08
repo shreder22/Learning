@@ -1,0 +1,15 @@
+/Users/svyrydsyvyk/Projects/Airport/Airport/bin/Debug/net6.0/Airport
+/Users/svyrydsyvyk/Projects/Airport/Airport/bin/Debug/net6.0/Airport.deps.json
+/Users/svyrydsyvyk/Projects/Airport/Airport/bin/Debug/net6.0/Airport.runtimeconfig.json
+/Users/svyrydsyvyk/Projects/Airport/Airport/bin/Debug/net6.0/Airport.dll
+/Users/svyrydsyvyk/Projects/Airport/Airport/bin/Debug/net6.0/Airport.pdb
+/Users/svyrydsyvyk/Projects/Airport/Airport/obj/Debug/net6.0/Airport.csproj.AssemblyReference.cache
+/Users/svyrydsyvyk/Projects/Airport/Airport/obj/Debug/net6.0/Airport.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svyrydsyvyk/Projects/Airport/Airport/obj/Debug/net6.0/Airport.AssemblyInfoInputs.cache
+/Users/svyrydsyvyk/Projects/Airport/Airport/obj/Debug/net6.0/Airport.AssemblyInfo.cs
+/Users/svyrydsyvyk/Projects/Airport/Airport/obj/Debug/net6.0/Airport.csproj.CoreCompileInputs.cache
+/Users/svyrydsyvyk/Projects/Airport/Airport/obj/Debug/net6.0/Airport.dll
+/Users/svyrydsyvyk/Projects/Airport/Airport/obj/Debug/net6.0/refint/Airport.dll
+/Users/svyrydsyvyk/Projects/Airport/Airport/obj/Debug/net6.0/Airport.pdb
+/Users/svyrydsyvyk/Projects/Airport/Airport/obj/Debug/net6.0/Airport.genruntimeconfig.cache
+/Users/svyrydsyvyk/Projects/Airport/Airport/obj/Debug/net6.0/ref/Airport.dll
